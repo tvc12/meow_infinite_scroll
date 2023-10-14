@@ -21,7 +21,7 @@ git clone https://github.com/tvc12/meow_infinite_scroll.git && cd meow_infinite_
 + Run project
 
 ```sh
-yarn serve
+yarn serve --open
 ```
 
 ### License
