@@ -1,11 +1,27 @@
-# bloc_example
+# meow_infinite_scroll
 
-- Project example use bloc for vue + typescript. Why not?
+- Project demo infinite scroll with bloc pattern! Why not? 😁
 
-## Setup
+### Features
 
+- [x] Infinite scroll
+- [x] Bloc pattern implementation using rxjs
+- [x] Atomic action, Debounce action using decorator
+- [x] Vue 2.x with Typescript
+- [x] Api demo in [here](https://dummyjson.com/docs/products)
+
+## Getting Started
+
++ Clone this repo
+
+```sh
+git clone https://github.com/tvc12/meow_infinite_scroll.git && cd meow_infinite_scroll && yarn
 ```
-git clone https://github.com/tvc12/bloc_example.git && yarn && yarn serve
+
++ Run project
+
+```sh
+yarn start
 ```
 
 ### License
