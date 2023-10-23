@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-+ Clone this repo
++ Clone this repo with command line
 
 ```sh
 git clone https://github.com/tvc12/meow_infinite_scroll.git && cd meow_infinite_scroll && yarn
@@ -23,6 +23,8 @@ git clone https://github.com/tvc12/meow_infinite_scroll.git && cd meow_infinite_
 ```sh
 yarn serve --open
 ```
+
+Open browser in http://localhost:8080 and test it
 
 ### License
 
